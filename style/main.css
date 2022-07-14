@@ -13,8 +13,8 @@ input {
 
 header {
     display: flex;
-    position: absolute;
-    /* justify-content:; */
+    /* position: absolute; */
+    justify-content: space-between;
     z-index: 999;
     background: transparent;
 }
